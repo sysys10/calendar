@@ -1,0 +1,60 @@
+const data = [
+  {
+    id: 1,
+    title: "프로젝트 회의",
+    startDate: "2024-7-2",
+    endDate: "2024-7-2",
+    time: "10:00",
+    description: "새 프로젝트 킥오프 미팅",
+  },
+  {
+    id: 2,
+    title: "팀 빌딩 활동",
+    startDate: "2024-7-5",
+    endDate: "2024-7-6",
+    time: "14:00",
+    description: "2일간의 팀 워크숍 및 친목 활동",
+  },
+  {
+    id: 3,
+    title: "고객 미팅",
+    startDate: "2024-7-10",
+    endDate: "2024-7-10",
+    time: "11:30",
+    description: "주요 고객사와의 분기별 미팅",
+  },
+  {
+    id: 4,
+    title: "웹 세미나",
+    startDate: "2024-7-15",
+    endDate: "2024-7-17",
+    time: "15:00",
+    description: "3일간의 새로운 기술 트렌드에 대한 온라인 세미나",
+  },
+  {
+    id: 5,
+    title: "프로젝트 마감 기간",
+    startDate: "2024-7-18",
+    endDate: "2024-7-20",
+    time: "09:00",
+    description: "1차 프로젝트 결과물 제출 준비 기간",
+  },
+  {
+    id: 6,
+    title: "팀 회식",
+    startDate: "2024-7-25",
+    endDate: "2024-7-25",
+    time: "19:00",
+    description: "월말 팀 회식",
+  },
+  {
+    id: 7,
+    title: "여름 휴가",
+    startDate: "2024-7-30",
+    endDate: "2024-08-2",
+    time: "09:00",
+    description: "4일간의 여름 휴가",
+  },
+];
+
+export default data;
